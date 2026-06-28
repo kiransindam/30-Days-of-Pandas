@@ -253,3 +253,11 @@ I'm passionate about **Data Analytics**, **Data Science**, and solving real-worl
 If you have suggestions, improvements, or would like to connect, feel free to reach out or open an issue in this repository.
 
 ⭐ *If you find this repository helpful, consider giving it a star!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
