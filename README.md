@@ -269,4 +269,5 @@ If you have suggestions, improvements, or would like to connect, feel free to re
 | [1517-find-users-with-valid-e-mails](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1527-patients-with-a-condition) |
 | [0177-nth-highest-salary](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0177-nth-highest-salary) |
+| [0176-second-highest-salary](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
