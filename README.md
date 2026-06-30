@@ -266,4 +266,5 @@ If you have suggestions, improvements, or would like to connect, feel free to re
 | [1683-invalid-tweets](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1873-calculate-special-bonus) |
 | [1667-fix-names-in-a-table](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1667-fix-names-in-a-table) |
+| [1517-find-users-with-valid-e-mails](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
