@@ -275,4 +275,5 @@ If you have suggestions, improvements, or would like to connect, feel free to re
 | [0196-delete-duplicate-emails](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0196-delete-duplicate-emails) |
 | [1795-rearrange-products-table](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1907-count-salary-categories) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
