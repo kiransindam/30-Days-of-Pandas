@@ -272,4 +272,5 @@ If you have suggestions, improvements, or would like to connect, feel free to re
 | [0176-second-highest-salary](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0184-department-highest-salary) |
 | [0178-rank-scores](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0178-rank-scores) |
+| [0196-delete-duplicate-emails](https://github.com/kiransindam/30-Days-of-Pandas/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
